@@ -11,4 +11,5 @@ Add your api to env file
 Write your code to  agent.py if only you are using  python language.
 Learn about import and from 
 To run use  either web or terminal 
-For web we write        
+For web we write ..adk web --port 8000    
+ for command line we write ..adk run [name of folder].
